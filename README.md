@@ -7,4 +7,8 @@ This is a HR chatbot demo built for healthcare industry :
 - Paid time off questions
 - Employee benefits
 - Training Recommendation
-- Fallback to Search information from Sharepoint in case it does not have the knowledge
+- Fallback to Search information from Sharepoint in case the chatbot does not have the knowledge
+
+Screenshot :
+
+Demo link : https://medicare-35c02.firebaseapp.com/
